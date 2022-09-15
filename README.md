@@ -4,8 +4,7 @@
   <img src="Github-Screenshots/screenshot1.png" alt="screenshot" width="128" />&nbsp
   <img src="Github-Screenshots/screenshot2.png" alt="screenshot" width="128" />&nbsp
   <img src="Github-Screenshots/screenshot3.png" alt="screenshot" width="128" />&nbsp
-  <img src="Github-Screenshots/screenshot4.png" alt="screenshot" width="128" />&nbsp
-  <img src="Github-Screenshots/screenshot5.png" alt="screenshot" width="128" />
+  <img src="Github-Screenshots/screenshot4.png" alt="screenshot" width="128" />
 </div>
 
 ---
